@@ -1,0 +1,31 @@
+supabase:
+haq2010789@gmail.com
+Ab786786m@
+
+project:
+Ab786786m@.#
+
+URL:
+https://ihcqlormtldomxpefaga.supabase.co
+
+API KEY:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImloY3Fsb3JtdGxkb214cGVmYWdhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzI2OTczMTIsImV4cCI6MjA0ODI3MzMxMn0.Af579RapeC7lXhQ_j9FUB9wv5g3eiMgZi3R7uKIzXx8
+
+JWT Secret:
+i7eHJC8sRmsRALAm8FRfwyR31BU7kNi+opUwHnGDtpZnVWS53o46BtSrQ830M3CppwG5t0qfN1LZzDDk0BrTzg==
+
+
+import { createClient } from '@supabase/supabase-js'
+
+const supabaseUrl = 'https://ihcqlormtldomxpefaga.supabase.co'
+const supabaseKey = process.env.SUPABASE_KEY
+const supabase = createClient(supabaseUrl, supabaseKey)
+
+
+
+EXPO_PUBLIC_SUPABASE_URL=https://ihcqlormtldomxpefaga.supabase.co
+EXPO_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImloY3Fsb3JtdGxkb214cGVmYWdhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzI2OTczMTIsImV4cCI6MjA0ODI3MzMxMn0.Af579RapeC7lXhQ_j9FUB9wv5g3eiMgZi3R7uKIzXx8
+        
+const supabaseUrl='https://ihcqlormtldomxpefaga.supabase.co'
+const supabaseAnonKey='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImloY3Fsb3JtdGxkb214cGVmYWdhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzI2OTczMTIsImV4cCI6MjA0ODI3MzMxMn0.Af579RapeC7lXhQ_j9FUB9wv5g3eiMgZi3R7uKIzXx8'
+      
