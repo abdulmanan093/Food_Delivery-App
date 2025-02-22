@@ -27,18 +27,6 @@ Easily **browse restaurants, place orders, track deliveries, and manage payments
 
 ## 📥 Installation  
 
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/your-username/Food-Delivery-App.git
-cd Food-Delivery-App
-
-
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
 1. Install dependencies
 
    ```bash
@@ -71,25 +59,23 @@ npm run reset-project
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ## Screenshots
-![WhatsApp Image 2025-02-22 at 23 26 07_0f64a300](https://github.com/user-attachments/assets/0d45dd23-5bf2-4b9b-9337-8620dafb2d46)
-<img width="185" alt="Screenshot 2025-02-22 221827" src="https://github.com/user-attachments/assets/9665e7b5-d8e9-4122-9394-9ac0ba5f068e" />
-<img width="185" alt="Screenshot 2025-02-22 222114" src="https://github.com/user-attachments/assets/15f77175-e579-4db5-a8a9-be896660db3a" />
-<img width="183" alt="Screenshot 2025-02-22 222221" src="https://github.com/user-attachments/assets/b73bd5c1-1d27-4235-8c0b-5aa4c6f89f18" />
-<img width="184" alt="Screenshot 2025-02-22 222149" src="https://github.com/user-attachments/assets/1ea274ec-aca3-471e-9561-8501ef786ce3" />
-<img width="183" alt="Screenshot 2025-02-22 222250" src="https://github.com/user-attachments/assets/34720c04-5a18-478c-bd45-8f31b21978d8" />
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9665e7b5-d8e9-4122-9394-9ac0ba5f068e" alt="Screenshot 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/15f77175-e579-4db5-a8a9-be896660db3a" alt="Screenshot 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/0d45dd23-5bf2-4b9b-9337-8620dafb2d46" alt="Main Image" width="30%">
+  <img src="https://github.com/user-attachments/assets/9665e7b5-d8e9-4122-9394-9ac0ba5f068e" alt="Screenshot 1" width="30%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b73bd5c1-1d27-4235-8c0b-5aa4c6f89f18" alt="Screenshot 3" width="45%">
-  <img src="https://github.com/user-attachments/assets/1ea274ec-aca3-471e-9561-8501ef786ce3" alt="Screenshot 4" width="45%">
+  
+  <img src="https://github.com/user-attachments/assets/15f77175-e579-4db5-a8a9-be896660db3a" alt="Screenshot 2" width="30%">
+  <img src="https://github.com/user-attachments/assets/b73bd5c1-1d27-4235-8c0b-5aa4c6f89f18" alt="Screenshot 3" width="30%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/34720c04-5a18-478c-bd45-8f31b21978d8" alt="Screenshot 5" width="45%">
+  
+  <img src="https://github.com/user-attachments/assets/1ea274ec-aca3-471e-9561-8501ef786ce3" alt="Screenshot 4" width="30%">
+  <img src="https://github.com/user-attachments/assets/34720c04-5a18-478c-bd45-8f31b21978d8" alt="Screenshot 5" width="30%">
 </p>
+
+
 
 
